@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>资源 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控制面板——点击以连接按钮确认是否断开设备连接" transform="translate(-65.000000, -61.000000)">
+            <rect id="矩形备份" fill="#252526" x="48" y="0" width="256" height="900"></rect>
+            <rect id="鼠标点击" fill="#004774" x="48" y="57" width="256" height="22"></rect>
+            <g id="资源-2" transform="translate(66.000000, 62.000000)">
+                <polyline id="路径" fill="#F3F3F3" fill-rule="nonzero" points="4.41291429 3.55577143 6.12935092 1.84148571 7.84148571 3.55577143"></polyline>
+                <polyline id="路径" fill="#F3F3F3" fill-rule="nonzero" points="8.69862857 4.41291429 10.4129143 6.12935092 8.69862857 7.84148571"></polyline>
+                <polyline id="路径" fill="#F3F3F3" fill-rule="nonzero" points="7.84148571 8.69862857 6.12504908 10.4129143 4.41291429 8.69862857"></polyline>
+                <polyline id="路径" fill="#F3F3F3" fill-rule="nonzero" points="3.55577143 7.84148571 1.84148571 6.12504908 3.55577143 4.41291429"></polyline>
+                <circle id="椭圆形" stroke="#F3F3F3" stroke-linecap="round" stroke-linejoin="round" cx="6.1248" cy="6.1248" r="5.7648"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

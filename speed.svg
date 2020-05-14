@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="324" y="56" width="552" height="819" rx="2"></rect>
+        <filter x="-6.5%" y="-5.5%" width="116.3%" height="111.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="9" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="控制面板——默认未连接状态" transform="translate(-375.000000, -191.000000)">
+            <rect id="矩形备份-4" fill="#1E1E1E" x="304" y="35" width="1136" height="865"></rect>
+            <g id="矩形备份-4" opacity="0.5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#3D3D3D" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <rect id="矩形备份-4" fill="#1E1E1E" x="334" y="161" width="532" height="693" rx="4"></rect>
+            <g id="编组" transform="translate(375.000000, 191.000000)">
+                <path d="M3.392,19.372 C1.69333333,17.3893333 0.666666667,14.8146667 0.666666667,12 C0.666666667,5.74133333 5.74133333,0.666666667 12,0.666666667 C18.2586667,0.666666667 23.3333333,5.74133333 23.3333333,12 C23.3333333,14.7706667 22.3386667,17.3093333 20.688,19.2786667" id="路径" stroke="#F0F0F0"></path>
+                <path d="M9.94,14.7226667 C9.01733333,13.9906667 8.86266667,12.648 9.59466667,11.7253333 C10.3266667,10.8026667 14.3186667,7.304 15.2426667,8.036 C16.1653333,8.768 13.6693333,13.4533333 12.9373333,14.376 C12.2053333,15.2986667 10.864,15.4546667 9.94,14.7226667 Z" id="路径" fill="#F0F0F0"></path>
+                <polygon id="路径" fill="#F0F0F0" points="11.3333333 0.666666667 12.6666667 0.666666667 12.6666667 4.66666667 11.3333333 4.66666667"></polygon>
+                <polygon id="路径" fill="#F0F0F0" points="2 12.6666667 2 11.3333333 4.66666667 11.3333333 4.66666667 12.6666667"></polygon>
+                <polygon id="路径" fill="#F0F0F0" points="19.3333333 12.6666667 19.3333333 11.3333333 22 11.3333333 22 12.6666667"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
